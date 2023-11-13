@@ -1,1 +1,1 @@
-<a href="#"><img src="https://raw.githubusercontent.com/Zyrenth/Zyrenth/main/GitHub%20Portfolio%20v3.0.png" /></a>
+<a href="#"><img src="https://raw.githubusercontent.com/Zyrenth/Zyrenth/main/GitHub%20Portfolio%20v4.0.png" /></a>
